@@ -19,7 +19,7 @@ namespace ManufactoryInformationSystem
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "bye！";
+            textBox1.Text = "bye！！！！";
         }
     }
 }
